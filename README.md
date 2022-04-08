@@ -1,10 +1,11 @@
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="./img/randomsvg.svg" width="225" alt="Random NFT logo">
 </a>
 </p>
 <br/>
+
+This content was imported from PatrickAlphaC and notes were taken over his files.
 
 # All On Chain Generated NFT
 
